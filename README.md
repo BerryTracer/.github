@@ -21,7 +21,7 @@ To get started with the BerryTracer project, please refer to individual reposito
 
 ## Community
 
-Join our community to discuss the BerryTracer project, share ideas, and collaborate on new features. [Details about community channels, like forums, chat rooms, or mailing lists]
+Join our community to discuss the BerryTracer project, share ideas, and collaborate on new features.
 
 ## Contact
 
