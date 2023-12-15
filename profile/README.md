@@ -9,7 +9,7 @@ Welcome to the BerryTracer Organization – the central hub for the BerryTracer 
 The BerryTracer Organization encompasses a variety of repositories, each serving a unique role in the GPS tracking ecosystem:
 
 - **gps-data-service**: Responsible for receiving and processing GPS data from various devices.
-- **common-service**: A shared library providing common functionalities like logging, configuration, and MongoDB adapters, used across different services in the BerryTracer project.
+- **shared-service**: A shared library providing common functionalities like logging, configuration, and MongoDB adapters, used across different services in the BerryTracer project.
 
 ## Contribution
 
