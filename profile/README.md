@@ -10,6 +10,9 @@ The BerryTracer Organization encompasses a variety of repositories, each serving
 
 - **gps-service**: Responsible for receiving and processing GPS data from various devices.
 - **shared-service**: A shared library providing common functionalities like logging, configuration, and MongoDB adapters, used across different services in the BerryTracer project.
+- **auth-service**: Handles system-wide user authentication and authorization.
+- **device-service**: Responsible for the registration, management, and tracking of GPS devices.
+- **user-service**: Manages user account details, including registration and authentication.
 
 ## Contribution
 
